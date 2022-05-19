@@ -12,3 +12,5 @@ if res1 == res2:
 
 else:
     print("not same")
+    
+input()
